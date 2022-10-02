@@ -1,0 +1,3 @@
+import pandas as pd 
+url_data = "https://raw.githubusercontent.com/kazut98/Estudo-Dirigido-MarketingAnalytics/main/data"
+df = pd.read_csv(url_data)
